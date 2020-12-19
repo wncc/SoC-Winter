@@ -7,9 +7,10 @@ If you don't have much experience with OpenCV or CNNs, don't worry about it, we 
   You'd be better off not doing this project if you don't know about Python Programming. But since you're enthusiastic, you can learn to code in Python [here](https://www.wncc-iitb.org/wiki/index.php/Python_for_Beginners).
 - ### OpenCV
   Only the basics of OpenCV would be required for this project. You can learn them [here](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
-- ### Deep Learning Library(PyTorch/Tensorflow) 
-  Not sure what PyTorch is? Do [this](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) tutorial on their website, to get to know the basics. But you need to know about Nerual Networks first. Oh here's where you can learn about NNs, just do [Week 1](https://github.com/wncc/learn-gan#week-1--getting-started) and you're good to go.
+- ### Deep Learning Library (PyTorch/Tensorflow) 
+  Not sure what PyTorch is? Do [this](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) tutorial on their website, to get to know the basics. But you need to know about Nerual Networks first. Oh here's where you can learn about NNs, just do [Week 1](https://github.com/wncc/learn-gan#week-1--getting-started) and you're good to go. Also, you need to know what Convolutional Neural Networks are, read and implement [this](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/) to get an understanding
   
-
-
-## 
+## Pathway
+- First we need a dataset. Download it from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data?select=fer2013.tar.gz). You can use also type this in your CLI instead    
+`kaggle competitions download -c challenges-in-representation-learning-facial-expression-recognition-challenge` 
+- 
