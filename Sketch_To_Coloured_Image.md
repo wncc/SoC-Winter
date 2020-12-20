@@ -53,9 +53,9 @@ Generative Adversarial Networks - [paper](https://arxiv.org/pdf/1406.2661.pdf) [
 
 - Understand the paper and the algorithm involved before implementing the model by code.
 - Refer the Tensorflow documentation extensively for importing dataset, pre-processing, and model training.
-- Use Google and Stackoverflow extensively for all the little errors you get during coding. If you are not able to get a solution, ask your mentor.
+- Use Google and Stackoverflow extensively for all the little errors you get during coding. If you are not able to get a solution, ask it out on doubt clearing group.
 - Try to have stable internet connection throughout the project from importing the dataset to training and testing. Save the checkpoints while training (most important). Procedure for this is mentioned in the article shared.
 
 <hr>
 
-<h3 align="center"> Happy Coding !</h3>
+<h3 align="center"> Happy Coding and a Merry Christmas !</h3>
