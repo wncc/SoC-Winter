@@ -58,4 +58,4 @@ Generative Adversarial Networks - [paper](https://arxiv.org/pdf/1406.2661.pdf) [
 
 <hr>
 
-<h3 align="centrer><Happy Coding !</h3>
+<h3 align="centrer> Happy Coding !</h3>
