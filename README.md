@@ -4,13 +4,14 @@ Checkout some cool self-projects you can try your hands on to curb your boredom 
 | ------------- |:-------------:| 
 | [Facial Emotion Detection](./face-emotion.md)      | ML,CV | 
 | [Tic-Tac-Toe AI](./tic-tac-toe/)      | Python      | 
-| [Deep Reinforcement Learning](https://github.com/wncc/SoC-Winter/blob/main/Deep%20Reinforcement%20Learning.md) | ML|
+| [Deep Reinforcement Learning](https://github.com/wncc/SoC-Winter/blob/main/Deep%20Reinforcement%20Learning.md) | ML/RL|
 | [Deploying Image Colorization Model](./Image%20Colorization.md)|ML,Dev|
 | [Neural Style Transfer for Stylising Images](./neuralstyletransfer.md)|ML|   
 | [Instagram Clone](https://github.com/wncc/SoC-Winter/blob/main/Instagram_clone.md)|App Dev| 
 | [Sketch To Coloured Image](https://github.com/wncc/SoC-Winter/blob/main/Sketch_To_Coloured_Image.md)|ML|
 | [Music Application](https://github.com/wncc/SoC-Winter/blob/main/Music%20Application%20in%20React-Redux.md)|Dev|  
 | [Library Management System](./library_management_system_django.md)|Backend Dev|
+| [Competitive Programming](https://github.com/wncc/CodeInQuarantine/tree/master/Week_2_CC)|CP|
 
 If you have doubts, Feel free to discuss them on our [Telegram Group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ)!
 
