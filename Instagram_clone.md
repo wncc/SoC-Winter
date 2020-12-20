@@ -28,11 +28,11 @@ Before starting with the main project, make sure you have set up your own androi
 
 An Android Application is made of various activities and fragments. Any feature or service provided by an android application is implemented by one or more of these activities.
 
-1.) Splash Activity: <br>Android Splash Screen is the first screen visible to the user when the application’s launched. Splash screen is one of the most vital screens in the application since it’s the user’s first experience with the application.<br>
-Splash screens are used to display some animations (typically of the application logo) and illustrations while some data for the next screens are fetched.
-Read this article on Splash Activity to get a deeper insight: [Splash Activity](https://www.journaldev.com/17831/android-splash-screen)
-This youtube video is a good watch on how to make a splash screen: [Video on Splash Activity](https://www.youtube.com/watch?v=8EcEk2pVt0A)
-Do not use the same animation and pictures;
+1.) Splash Activity: <br>Android Splash Screen is the first screen visible to the user when the application’s launched. Splash screen is one of the most vital screens in the application since it’s the user’s first experience with the application.Splash screens are used to display some animations (typically of the application logo) and illustrations while some data for the next screens are fetched.<br>
+Read this article on Splash Activity to get a deeper insight: [Splash Activity](https://www.journaldev.com/17831/android-splash-screen)<br>
+This youtube video is a good watch on how to make a splash screen: [Video on Splash Activity](https://www.youtube.com/watch?v=8EcEk2pVt0A)<br>
+Do not use the same animation and pictures; You can customize and download them according to the app; If you want to make an exact instagram clone: you can use the original instagram logo(but then you won't be able to release it officially)
+
 
 
 
