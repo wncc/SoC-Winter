@@ -9,7 +9,8 @@ Checkout some cool self-projects you can try your hands on to curb your boredom 
 | [Neural Style Transfer for Stylising Images](./neuralstyletransfer.md)|ML|   
 | [Instagram Clone](https://github.com/wncc/SoC-Winter/blob/main/Instagram_clone.md)|App Dev| 
 | [Sketch To Coloured Image](https://github.com/wncc/SoC-Winter/blob/main/Sketch_To_Coloured_Image.md)|ML|
-| [Music Application](https://github.com/wncc/SoC-Winter/blob/main/Music%20Application%20in%20React-Redux.md)|Dev|   
+| [Music Application](https://github.com/wncc/SoC-Winter/blob/main/Music%20Application%20in%20React-Redux.md)|Dev|  
+| [Library Management System](./library_management_system_django.md)|Backend Dev|
 
 If you have doubts, Feel free to discuss them on our [Telegram Group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ)!
 
