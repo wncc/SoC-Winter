@@ -1,6 +1,6 @@
 # Music Application in React-Redux
 
-## Week 1: Induction Week (Getting started)
+## Week 1: Induction Week
 This week would be an introduction to react and redux and any other libraries that might be used in the final project.
 
 ### Day 1: Basic introduction of React
@@ -64,11 +64,11 @@ The most famous API used while designing music applications is the [Spotify API]
 
 ### Folder Structure
 Keep in mind the folder structure to follow during implementing the application. It would be very useful later on when you design larger applications, so it is good to incorporate at an earlier stage as well.
-- Keep all the reusable components in one folder called components.
-- Make one folder for all the views (or pages) in your application.
-- For all the Redux work, keep one folder and then make sub folders like action, reducers and store. 
+- Keep all the reusable components in one folder called **components**.
+- Make one folder for all the **views** (or pages) in your application.
+- For all the **Redux** work, keep one folder and then make sub folders like action, reducers and store. 
 
 ### Resources
-These are some of the tutorials that you can follow to implement the application, all of these are complete on their own and you can follow any of these to make the project. There are a lot of other video tutorials which can easily be found online, so do search if these don't seem sufficient.
+These are some of the video tutorials that you can follow to implement the application, all of these are complete on their own and you can follow any of these to make the project. There are a lot of other video tutorials which can easily be found online, so do search if these don't seem sufficient.
 - [Build a Spotify Clone with REACT JS for Beginners](https://youtu.be/pnkuI8KXW_8)
 - [Build a MUSIC app in REACT JS #1](https://youtu.be/3ourkSxbd0Y) and [Build a Music app in REACT JS #2](https://youtu.be/M4TTeSVX3HI) 
