@@ -8,4 +8,4 @@ Checkout some cool self-projects you can try your hands on to curb your boredom 
 - [Neural Style Transfer for Stylising Images](./neuralstyletransfer.md) (Intermediate)
 - [An Android Application similar in spirit to Instagram](https://github.com/wncc/SoC-Winter/blob/main/Instagram_clone.md) (Intermediate)
 - [Sketch_To_Coloured_Image](https://github.com/wncc/SoC-Winter/blob/main/Sketch_To_Coloured_Image.md) (Intermediate)
-- [Music Application in React-Redux]()
+- [Music Application in React-Redux](https://github.com/wncc/SoC-Winter/blob/main/Music%20Application%20in%20React-Redux.md)
