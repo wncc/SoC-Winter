@@ -26,5 +26,13 @@ Next, follow this tutorial to make set up Android Studio and build and install y
 Before starting with the main project, make sure you have set up your own android device as the debugger. If your laptop does not have great processor, installing and running your apps on virtual devices would be terrible. Hence it is adviced to run your apps on your android devices. To do so, check out the developer mode in the settings of your device.<br>
 [How to run your app on a real device](https://developer.android.com/training/basics/firstapp/running-app) is how you can do it. Do give it a read in case you are stuck.
 
+An Android Application is made of various activities and fragments. Any feature or service provided by an android application is implemented by one or more of these activities.
+
+1.) Splash Activity: <br>Android Splash Screen is the first screen visible to the user when the application’s launched. Splash screen is one of the most vital screens in the application since it’s the user’s first experience with the application.<br>
+Splash screens are used to display some animations (typically of the application logo) and illustrations while some data for the next screens are fetched.
+Read this article on Splash Activity to get a deeper insight: [Splash Activity](https://www.journaldev.com/17831/android-splash-screen)
+This youtube video is a good watch on how to make a splash screen: [Video on Splash Activity](https://www.youtube.com/watch?v=8EcEk2pVt0A)
+Do not use the same animation and pictures;
+
 
 
