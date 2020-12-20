@@ -3,7 +3,7 @@ In this project, you will implement a CNN model from scratch using a Deep Learni
 
 If you don't have much experience with OpenCV or CNNs, don't worry about it, we have shared links to learn some basics about them as well.
 
-## Prequisites
+## Prerequisites
 - ### Python
   You'd be better off not doing this project if you don't know about Python Programming. But since you're enthusiastic, you can learn to code in Python [here](https://www.wncc-iitb.org/wiki/index.php/Python_for_Beginners).
 - ### OpenCV
