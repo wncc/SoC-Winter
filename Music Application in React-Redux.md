@@ -10,7 +10,7 @@ If you’re a complete beginner in React, you can refer to the following YouTube
 - [React Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) 
 - [React Playlist](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 
-You can choose to watch any of these or both as well. Just remember to code alongside else the concepts will run away from your mind.
+You can choose to watch any of these or both as well. Just remember to code alongside else you'll easily forget the concepts.
 
 ### Day 2: More robust introduction about React + First React application
 React undoubtedly has one of the best documentations and thus proves to be its best learning source. All the important concepts are explained in a coherent manner. Try coding alongside for better understanding. Follow all the blogs in the [“Main Concepts”](https://reactjs.org/docs/hello-world.html) sections to get a full grasp of the concepts.
