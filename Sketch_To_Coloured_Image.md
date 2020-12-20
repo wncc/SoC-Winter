@@ -8,7 +8,7 @@
 
 ### Python 
 
-Python programming language is necessary for this project. If you have a grip over any other programming language, it wouldnt take much time to learn Python. You can follow this tutorial [Python](https://github.com/wncc/learners-space/tree/master/Python) .
+Python programming language is necessary for this project. If you have a grip over any other programming language, it wouldnt take much time to learn Python. You can follow this [tutorial](https://github.com/wncc/learners-space/tree/master/Python) .
 
 ###  Tensorflow
 
@@ -48,3 +48,12 @@ Generative Adversarial Networks - [paper](https://arxiv.org/pdf/1406.2661.pdf) [
 - That's it. Test the model and get some amazing outputs.
 
 <hr>
+
+## Some General Points
+
+- Understand the paper and the algorithm involved before implementing the model by code.
+- Refer the Tensorflow documentation extensively for importing dataset, pre-processing, and model training.
+- Use Google and Stackoverflow extensively for all the little errors you get during coding. If you are not able to get a solution, ask your mentor.
+- Try to have stable internet connection throughout the project from importing the dataset to training and testing. Save the checkpoints while training (most important). Procedure for this is mentioned in the article shared.
+
+Happy Coding!
