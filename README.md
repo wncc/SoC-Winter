@@ -7,5 +7,5 @@ Checkout some cool self-projects you can try your hands on to curb your boredom 
 - [Deploying Image Colorization Model](./Image%20Colorization.md)
 - [Neural Style Transfer for Stylising Images](./neuralstyletransfer.md) (Intermediate)
 - [An Android Application similar in spirit to Instagram](https://github.com/wncc/SoC-Winter/blob/main/Instagram_clone.md) (Intermediate)
-- [Sketch_To_Coloured_Image](https://github.com/wncc/SoC-Winter/blob/main/Sketch_To_Coloured_Image.md) (Advanced)
+- [Sketch_To_Coloured_Image](https://github.com/wncc/SoC-Winter/blob/main/Sketch_To_Coloured_Image.md) (Intermediate)
 - [Music Application in React-Redux]()
