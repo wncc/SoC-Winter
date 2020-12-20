@@ -10,7 +10,6 @@ In this project, we will be building an android application similar in spirit to
 A good coding background is a must. A good grip over OOPS is required(preferably JAVA) but if you could manage CS101 well, you will be able to complete this project with decent efforts. All you need is lot of enthusiasm, dedication and patience(Debugging can be tiring and irritating at times).
 
 ## Procedure
-<hr>
 ### Android Studio
 Note: Those who have fair knowledge of basic working of Android Studio can skip this part.
 Android studio is a framework that includes every tool necessary to develop Android apps and games. Technically, it is an official IDE (Integrated Development Environment) for facilitating app and game development.
