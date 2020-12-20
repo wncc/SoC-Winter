@@ -1,6 +1,5 @@
 # SoC-Winter
-Checkout some cool self-projects you can try your hands on to curb your boredom this December!
-
+Checkout some cool self-projects you can try your hands on to curb your boredom this December! These are short projects that you can do yourself in 1-2 weeks during this winter break, and strengthen your grip in the field of your choice. 
 | Title         | Field         | 
 | ------------- |:-------------:| 
 | [Facial Emotion Detection](./face-emotion.md)      | ML,CV | 
@@ -9,5 +8,11 @@ Checkout some cool self-projects you can try your hands on to curb your boredom 
 | [Deploying Image Colorization Model](./Image%20Colorization.md)|ML,Dev|
 | [Neural Style Transfer for Stylising Images](./neuralstyletransfer.md)|ML|   
 | [Instagram Clone](https://github.com/wncc/SoC-Winter/blob/main/Instagram_clone.md)|App Dev| 
-| [Sketch_To_Coloured_Image](https://github.com/wncc/SoC-Winter/blob/main/Sketch_To_Coloured_Image.md)|ML|
+| [Sketch To Coloured Image](https://github.com/wncc/SoC-Winter/blob/main/Sketch_To_Coloured_Image.md)|ML|
 | [Music Application](https://github.com/wncc/SoC-Winter/blob/main/Music%20Application%20in%20React-Redux.md)|Dev|   
+
+If you have doubts, Feel free to discuss them on our [Telegram Group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ)!
+
+***
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
