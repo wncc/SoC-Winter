@@ -1,4 +1,6 @@
-# Sketch to Coloured Image using Conditional Adversarial Networks
+# Sketch to Coloured Image using Conditional Adversarial Network
+
+![Sketch to Coloured Image](https://miro.medium.com/max/2400/1*sOHB4IYP-a1T2qBcZCoPow.jpeg)
 
 <hr>
 
@@ -37,6 +39,12 @@ Generative Adversarial Networks - [paper](https://arxiv.org/pdf/1406.2661.pdf) [
 
 - Read and understand this [paper](https://arxiv.org/pdf/1611.07004.pdf) completely since the project is based on implementation of this paper (2 days)
 
-- Set up Microsoft Azure ML Workspace and start using Notebooks. Sign up/in using LDAP ID and start using your free credits for this project. You have to use Tesla K80 (GPU) for compute.
+- Set up Microsoft Azure ML Workspace and start using Notebooks. Sign up/in using LDAP ID and start using your free credits for this project. Make a new ML workspace and start a new notebook. You have to use Tesla K80 (GPU) for compute. You will have to upload the kaggle dataset either by using API or manual download and upload.( 1 day)
 
-- Implement the model as per this [article](https://towardsdatascience.com/generative-adversarial-networks-gans-89ef35a60b69). Follow each step carefully and understand the concepts while you write the code (2 days)
+- Implement the model as per this [article](https://towardsdatascience.com/generative-adversarial-networks-gans-89ef35a60b69). Follow each step carefully and understand the concepts while you write the code. You may change the size of dataset and number of epochs since GANs take alot of time for training (2 days)
+
+- Train the model. You can try your own variations for lambda value and beta values in loss functions and optimizers. You can also change batch size or number of epochs, maybe manipulate the architecture a bit and compare the results. (4 days)
+
+- That's it. Test the model and get some amazing outputs.
+
+<hr>
