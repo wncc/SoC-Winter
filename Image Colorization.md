@@ -83,3 +83,6 @@ Here are some reference links so as to how to deploy an ML model on Flas which u
 
 
 That's it! You have implemented and deployed your own image recolorization model!
+
+***
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
