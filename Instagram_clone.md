@@ -33,6 +33,12 @@ Read this article on Splash Activity to get a deeper insight: [Splash Activity](
 This youtube video is a good watch on how to make a splash screen: [Video on Splash Activity](https://www.youtube.com/watch?v=8EcEk2pVt0A)<br>
 Do not use the same animation and pictures; You can customize and download them according to the app; If you want to make an exact instagram clone: you can use the original instagram logo(but then you won't be able to release it officially)
 
+2.) Login and Registration: <br>
+After the splash activity: we generally see a login or sign up screen. We can use various APIs for Authentication: Phone Number Authentication, Google Sign In, Facebook Authentication, Email and Password verification. Infact, you can also use Ldap Id for Authentication.<br>
+For now, let us use the PhoneNumber_Authentication feature for authentication. For this we will be using [Firebase](https://firebase.google.com/?gclid=Cj0KCQiAifz-BRDjARIsAEElyGJ3G22z9KunG9CV-NlgftPTF7AVkOQYbCgTmhvSz-E_bx8EthTE0TkaAhC2EALw_wcB). <br>
+
+
+
 
 
 
