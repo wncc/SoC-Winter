@@ -1,6 +1,6 @@
 # Sketch to Coloured Image using Conditional Adversarial Networks
 
-
+<hr>
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ It is preferred that you have used a deep learning framework in the past especia
 
 It is preferred that you are familiar with deep learning concepts such as Neural networks, Loss functions, Optimizers, Backpropogation, etc but not hard prerequisites. Follow these articles to understand some key concepts that you will need for the project.
 
-Convolutional Neural Networks - [article 1](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148) [article 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) [article 3] (https://medium.com/datadriveninvestor/convolutional-neural-network-cnn-simplified-ecafd4ee52c5)
+Convolutional Neural Networks - [article 1](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148) [article 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) [article 3](https://medium.com/datadriveninvestor/convolutional-neural-network-cnn-simplified-ecafd4ee52c5)
 
 More on CNN - [article](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
