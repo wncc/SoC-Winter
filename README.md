@@ -12,6 +12,7 @@ Checkout some cool self-projects you can try your hands on to curb your boredom 
 | [Music Application](https://github.com/wncc/SoC-Winter/blob/main/Music%20Application%20in%20React-Redux.md)|Dev|  
 | [Library Management System](./library_management_system_django.md)|Backend Dev|
 | [Competitive Programming](https://github.com/wncc/CodeInQuarantine/tree/master/Week_2_CC)|CP|
+| [Slack Clone](https://github.com/wncc/SoC-Winter/blob/main/Slack-clone.md) |Dev|
 
 If you have doubts, Feel free to discuss them on our [Telegram Group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ)!
 
