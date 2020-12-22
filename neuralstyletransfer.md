@@ -18,7 +18,7 @@ The principle of neural style transfer is to define two distance functions, one 
 
 How will this be achieved? Gradient Descent! In essence you want to optimise the output image with respect to two distances. If we choose a proper metric all we have to do is descend down the hill and minimise both the content and the style image!
 
-It is best to read the original paper [here](https://arxiv.org/pdf/1508.06576.pdf) to get an undersatnding of the motivation and approach used by the authors (including their choice of metric)
+It is best to read the original paper [here](https://arxiv.org/pdf/1508.06576.pdf) to get an undersatnding of the motivation and approach used by the authors (including their choice of metric).
 
 ## The Procedure
 
