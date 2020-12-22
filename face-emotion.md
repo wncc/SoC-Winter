@@ -9,12 +9,12 @@ If you don't have much experience with OpenCV or CNNs, don't worry about it, we 
 - ### OpenCV
   Only the basics of OpenCV would be required for this project. You can learn them [here](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
 - ### Deep Learning Library (PyTorch/Tensorflow) 
-  Not sure what PyTorch is? Do [this](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) tutorial on their website, to get to know the basics. But you need to know about Nerual Networks first. Oh here's where you can learn about NNs, just do [Week 1](https://github.com/wncc/learn-gan#week-1--getting-started) and you're good to go. Also, you need to know what Convolutional Neural Networks are, read and implement [this](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/) to get an understanding
+  Not sure what PyTorch is? Do [this](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) tutorial on their website, to get to know the basics. But you need to know about Nerual Networks first. Oh here's where you can learn about NNs, just do [Week 1](https://github.com/wncc/learn-gan#week-1--getting-started) and you're good to go. Also, you need to know what Convolutional Neural Networks are, read and implement [this](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/) to get an understanding .
   
 ## Pathway
 - First we need a dataset. Download it from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data?select=fer2013.tar.gz). You can use also type this in your CLI instead    
 `kaggle competitions download -c challenges-in-representation-learning-facial-expression-recognition-challenge` 
-- Split the data into *training* and *validation* sets, this is can be done in a ratio of about 10:1 or less
+- Split the data into *training* and *validation* sets, this is can be done in a ratio of about 10:1 or less .
 - Now augment the image data using Pytorch. Learn it [here](https://pytorch.org/docs/stable/torchvision/transforms.html)
 - Now, code a CNN model, based on what you learnt from the link in prerequisites. A block would contain a Conv2D layer, Activation layer, BatchNorm, MaxPool, Dropout(optional). Create several such blocks (with successive blocks having double filters in Conv2D layer). Finally include a Flatten Layer, Dense layer, Activation layer. This, of course, is just a blueprint to give you direction. We'd encourage to try out different parameters and tinker around with the model to get some more practical knowledge. 
 - Now come the standard training, testing, and hyperparameter training. After this, you can save the model to be used to create the emotion detector.
