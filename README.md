@@ -14,6 +14,8 @@ Checkout some cool self-projects you can try your hands on to curb your boredom 
 | [Competitive Programming](https://github.com/wncc/CodeInQuarantine/tree/master/Week_2_CC)|CP|
 | [Slack Clone](https://github.com/wncc/SoC-Winter/blob/main/Slack-clone.md) |Dev|
 | [Physics Engine](https://github.com/wncc/SoC-Winter/blob/main/Physics_Engine.md) |Game Dev|
+| [SOTA CNN architectures](./SOTA%20CNN%20architectures.md) | ML,CV |
+
 
 If you have doubts, Feel free to discuss them on our [Telegram Group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ)!
 
